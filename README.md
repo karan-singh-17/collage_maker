@@ -1,4 +1,4 @@
-# Collage Maker App
+# Collage Maker App (A Flutter Project)
 
 Welcome to the Collage Maker App! This Flutter project allows users to create beautiful collages by adding images from their devices, cropping them, and placing them anywhere on the canvas. Once the collage is created, users can save it to their device for sharing or future use.
 
